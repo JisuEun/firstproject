@@ -19,5 +19,5 @@
 ## 💨배운 내용 연습
 - 간단한 투두리스트 사이트 제작 ✔
 
-## 공부 내용 백업
+## 👓공부 내용 백업
 <<https://velog.io/@jisueun8/series/Spring-Boot>>
